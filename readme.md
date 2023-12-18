@@ -1,2 +1,2 @@
 Readme.md
-A read me file added for demo.
+A read me file added for demos.
